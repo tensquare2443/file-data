@@ -1,3 +1,4 @@
-App: File Metadata Retriever API
-Purpose: Upload a file to get the size of it in bytes
-Tools: NodeJS, Express
+**File Metadata Retriever API**  
+A simple app - upload a file and get its size in bytes.  
+Hosted live on Heroku (give a minute to load): https://file-data-161718.herokuapp.com/  
+Built with: Node, Express
